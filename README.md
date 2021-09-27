@@ -34,14 +34,6 @@ In this assignment, you will help the explorer and Professor of Archeology, Bori
 
 each of which involves writing a separate method in Java. We explain these phases in detail after presenting some further introductory material.
 
-Collaboration Policy and Academic Integrity 
-===========================================
-
-You may not look at anyone else's code, in any form, or show your code to anyone else, in any form. You may not show or give your code to another person in the class. While you can talk to others about the assignment at a high level, your discussions should not include writing code or copying it down. If you don't know where to start, if you are lost, etc., please contact one of the teaching team immediately. Do not wait. A little assistance can do wonders to get you off and running.
-
-Regardless of the times you choose to push your changes to GitHub, you should commit early and often. In case of suspected plagiarism, your
-version control history will be used as additional evidence to judge the case. It is in your best interest to commit very often (and to use adequate commit messages) to make it clear that the process of creation is entirely your own.
-
 The exploration phase 
 =====================
 
