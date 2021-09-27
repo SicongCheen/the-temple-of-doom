@@ -1,6 +1,4 @@
-# Software Design and Programming
-
-## The Temple of Doom
+# The Temple of Doom
 
 Objectives 
 ==========
